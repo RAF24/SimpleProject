@@ -1,2 +1,2 @@
 # SimpleProject
-Projet de test de GitHub
+Projet de réalisation des exercices du cours de GitHub d'Openclassrooms 
